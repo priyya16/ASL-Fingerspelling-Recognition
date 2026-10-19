@@ -1,0 +1,10 @@
+
+Kaggle/
+kaggle.json
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
+venv/
+*.docx
