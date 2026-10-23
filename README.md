@@ -1,4 +1,4 @@
-# ASL Fingerspelling Recognition System 🤟
+# ASL Fingerspelling Recognition System 
 
 A Deep Learning Project for American Sign Language (ASL) Fingerspelling Recognition.
 
